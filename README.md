@@ -1,0 +1,2 @@
+# G1F021046_Andro-Yesaya-Toar_ASD_Tugas-SingleLinkList
+G1F021046_Andro Yesaya Toar_ASD_Tugas SingleLinkList-Sistem Informasi-Universitas Bengkulu
